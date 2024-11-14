@@ -73,6 +73,13 @@ footer {
     }
 }
 
+.error-message {
+    color: red;
+    font-size: 0.9em;
+    display: block;
+    margin-top: 4px;
+}
+
 .hidden {
     display: none;
 }
